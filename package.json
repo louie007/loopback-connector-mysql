@@ -1,5 +1,5 @@
 {
-  "name": "loopback-connector-mysql",
+  "name": "loopback-connector-mysql-new-instance",
   "version": "5.4.1",
   "description": "MySQL connector for loopback-datasource-juggler",
   "engines": {
